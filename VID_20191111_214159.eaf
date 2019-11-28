@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-29T01:10:46+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Я/Downloads/VID_20191111_214159.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../Users/Я/Downloads/VID_20191111_214159.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ac145fd4-f07d-4aef-92c9-adc51697a04b</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">11</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="369000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="370000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="370000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="389798"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="389800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="416620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="416655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="428499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="428517"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="476681"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="476772"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="633102"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="633134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="663055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="663111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="678361"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="678388"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="736510"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="imported-sep" TIER_ID="Tier-1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE># time_begin = 06:09</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>И собственно исследователи личности Лимонова как политического актора говорят/ что надо отсчитывать его политическое становление и какое-то идеологическое становление с восемьдесят пятого года с Перестройки/ он сам писал в/нескольких своих книгах например там Иностраенец в смутное время где он описывает первый свой визит в СССР</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text2">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>и в другмх что он был очень спокоен за Россию/ ну/ за Советский Союз/ вот мне казалось что моя родина законсервирована/ заморожена - да/ я там жить не мог но это была страна которая существовала для самых угнетенных ее классов/ для рабочих/ для крестьян/ для там научной интелегенции и все было с ней неплохо/ и тут случилась перестройка и надо было чё-то делать/ тогда он приехал в/ Москву впервые/ кстати он приехал по приглашению Юлиана Семенова/ кто такой Юлиан Семенов знаете?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text3">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>Дадада/ [нрзб] весны это журналист который владел холдингом "Совершенно секретно"/ у него было безумное колличество денег на тот момент/ на момент Перестройки/ иии</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text4">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>а еще/ ии Юлиан Семенов взял интервью у Отто Скорцени/ Отто Скорцени это известный нацистский диверсант который после эээ поражения третьего рейха/ как и многие э/ специалисты узкого профиля нацистские не был казнен а работал на самую неочевидную страну для этого времени он работал на израиль/ Отто Скорцени занимался тем что боролся с ракетной программой Египта/ вот с таким вот человеком встречался Семенов/ вот иии приезд Лимонова первый в Москву был довольно комичным потому что Лимо...потому что Лимонов участвовал в одном и том же мероприятии с Вилли Токаревым/ кто такой Вилли Токарев вы себе представляете/ это недавно умер совсем это такой исполнитель ээ русского шансона который прожил очень много времени в штатах он известен своими короче вот такими вот усами пышными как у</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text5">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>вот да дада вот собственно представьте/ вы/ вам сорок с чем-то лет вы приезжаете в Москву у вас собственно две цели первая это эмэ заработать большое колличество денег потому что Юлиан Семенов м размутил огромное колличество ивентов за которые платят он договорился о публикациях то есть у вас несколько недель такого чёса/ вы общаетесь с людьмии/ вы вам вы можете видеть родителей которых не видели очень много лет узнать как вообще живут ваши друзья вторая цель/ ваша жена снова в запое и она осталась в Москве и вам надо как-то её найти/ потому что на тот момент Лимонов был женат на Наталье Медведевой и/ я не читал ее книг  и не читал каких-то ее историй но/ по его воспоминаниям она очень много пила когда пила теряла контроль терялась в городах и в общем он ее искал и это была отдельная в общем его/ часть жизни которая давала ему какой-то смысл/ ее искать/ и вот он значит приезжает и он видит в каком п****це находится советский союз после собсна его отъезда он видит как все оно рушится он видит грязь он видит что что у людей не хватает денег уже он видит людей злых он видит что при этом эээ по его мнению людям просто/ людям врут с экранов телевизоров потому что гласность или ими манипулируют и при этом все это происходит за банкетом/ и при этом вся эта рефлексия происходит при участии Вилли Токарева который занимается тем что мрачно и сладко бухает иии обнимает какое-то колличество фанаток то есть абсолютный какой-то сюр вот это книга Иностраенец в смутное временя/ значит э/ иии он начинает подумывать о том чтоб вернуться/ ии/ в девяностые он начинает наездами приезжать точечно в москву и он понимает что/вот все советский союз распадается надо что-то делать плюс/ очередное охлаждение отношений с женой совпадает с югославскими конфликтами и он просто реально бежит от домашних проблем на фронт/ он не то чтобы воюет он военный журналист но у него есть оружие/ и он знакомится с очень интересными людьми чем он будет козырять потом постоянно/ да, он знакомится то есть с Радованом Караджичем/ есть даже видео то что известное видео где Лимонов стреляет из пулемета в сторону Сараево это видео/ у него очень интересная история если мы понимаем, как оно снято/ это видео снял Павел Павликовский/ это последний оскар по-моему предпоследний оскар, да? Ида/ вот Павликовский снял какое-то безмное колличество фильмов про Россию/ документальных/ вот один из фильмов у него есть про Югославию вот где собственно Павликовский как хороший документалист не берет интервью ему важно живой диалог записать поэтому он просит Лимонова взять интервью у Караджича</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text6">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>но вот в этот моемент в моемент разговора Караджичу звонит жена и Караджич уходит говорить с женой/ а Лимонову нечего делать/ он в довольно/ в глупой ситуации у него микрофон его снимают и он понимает что надо куда-то отправить диалог и тут какой-то серб узнав в Лимонове либо Лимонова либо какую-то родственную душу русских очень любили на этой войне/ он говорит 'а не хотите пострелять из пулемета?'/ вот так появляются эти кадры/ вот Павликовский собирается сейчас экранизовать экранизировать роман Карерры Лимонов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text7">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>то есть вы понимаете какой это/ это не кроссовер это кроссовер в кроссовере это очень вот интересно/ значит/ эээ кроме Югославии случается еще ааа/ Грузино-абхазский конфликт/ Предднестровский конфликт иии</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Xenomirant" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@pn1988m" TIER_ID="@pn1988m-text8">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>то есть/ Лимонову становится просто очевидно что вообще произойдет со страной/ если вот это развал продолжится да это не будет просто мирный какой-то развод республик да/ то есть везде будут гражданские войны/ он даже пишет в одном из своих эссе что национализмы национализмы малых народов с его точки зрения это самое страшное что может произойти/ потму что они несут кровь разруху войну и от это так иначе проговаривает/ и он начинает пытаться заниматься политикой/ у него не все получается/ в девяносто третьем он конечно активно э/ участвует в событиях/ э у Верховного совета/ туда ходит он живвет тогда на Арбате/в квартире у своего не на долгий момент соратника/ Ярослава Могутина/ то есть сам Могутин сейчас замечательный американский квир-художник/ и очень хороший русский поэт прям очень хороший/ я советую почитать у него есть два великих стихотворения/ одно называется свастика другое называется моя жизнь моя борьба/</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_ae8bdf0b-d20b-44bc-b108-190b16e57ab7">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_48a48885-5858-49b5-a314-976f14533573">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_da96a043-c712-472a-9e87-f795f83d0190">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_be76fc88-ad7c-41f1-9495-1f010ca2775f">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1c925ebd-4db8-4ccd-b3a2-5f6435163b87">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_47419d51-bb9a-458b-8c9b-f2b9e38e4d61">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ea9e86e4-fc68-4e4a-bfc0-7079f72740dc">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_746b45b9-b8be-4204-a556-f95b991e4aaf">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cf4b5e15-e945-47c3-a415-68ce8b56a20f">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5e6a556c-4fdc-442d-9cc5-e56bc8d4313d">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ac5f3fdf-6bcd-4026-a137-aaf1d648e34b">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_43d85d6f-076b-48c1-978d-405756238654">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3ea2e458-a933-4dd6-9912-d3a4b8a5bf4e">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_5da73f73-50cd-4bcf-8e5f-4b276da5fd86">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_213238aa-beeb-41fc-bb33-f281ce424dc2">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_25e80d9d-4177-4694-8425-8bf6b1e218af">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_56beaed8-9023-44af-a7f9-862106fd5e9f">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
